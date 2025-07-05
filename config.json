@@ -77,9 +77,6 @@
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
     }
-    "X": {
-      "api": "https://www.xxibaozyw.com/api.php/provide/vod",
-      "name": "X细胞"
-    }
+
   }
 }
