@@ -93,10 +93,6 @@
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
     },
-      "lb": {
-      "api": "https://lbapi9.com/api.php/provide/vod",
-      "name": "乐播资源"
-    },
      "fh": {
       "api": "http://fhapi9.com/api.php/provide/vod",
       "name": "番号资源"
