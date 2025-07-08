@@ -104,6 +104,26 @@
      "lajiao": {
       "api": "http://api.11bat.com/api.php/provide/vod",
       "name": "辣椒资源"
+    },
+     "xiaoji": {
+      "api": "https://shayuapi.com/api.php/provide/vod",
+      "name": "小鸡资源"
+    },
+     "xxibao": {
+      "api": "https://www.xxibaozyw.com/api.php/provide/vod",
+      "name": "X细胞"
+    },
+   "souavzy": {
+      "api": "https://api.souavzy.vip/api.php/provide/vod",
+      "name": "搜AV资源"
+    },
+   "danaizi": {
+      "api": "https://apidanaizi.com/api.php/provide/vod",
+      "name": "大奶子资源"
+    },
+   "yutu": {
+      "api": "https://apiyutu.com/api.php/provide/vod",
+      "name": "玉兔资源"
     }
 
   }
