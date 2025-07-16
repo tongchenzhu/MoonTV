@@ -76,6 +76,22 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
+    }, 
+    "xingba": {
+      "api": "https://xingba111.com/api.php/provide/vod",
+      "name": "杏吧"
+    },
+      "bwzy": {
+      "api": "https://api.bwzyz.com/api.php/provide/vod",
+      "name": "百万资源"
+    },
+      "dadiapi": {
+      "api": "https://dadiapi.com/api.php/provide/vod",
+      "name": "大地资源"
+    },
+      "hsckzy888": {
+      "api": "https://hsckzy888.com/api.php/provide/vod",
+      "name": "黄色仓库888"
     }
   }
 }
