@@ -84,6 +84,55 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
+    },
+     "xingba": {
+      "api": "https://xingba111.com/api.php/provide/vod",
+      "name": "杏吧"
+    },
+      "bwzy": {
+      "api": "https://api.bwzyz.com/api.php/provide/vod",
+      "name": "百万资源"
+    },
+      "dadiapi": {
+      "api": "https://dadiapi.com/api.php/provide/vod",
+      "name": "大地资源"
+    },
+      "hsckzy": {
+      "api": "https://hsckzy888.com/api.php/provide/vod",
+      "name": "黄色仓库"
+    },
+     "fh": {
+      "api": "http://fhapi9.com/api.php/provide/vod",
+      "name": "番号资源"
+    },
+     "shayu": {
+      "api": "https://shayuapi.com/api.php/provide/vod",
+      "name": "鲨鱼资源"
+    },
+     "lajiao": {
+      "api": "http://api.11bat.com/api.php/provide/vod",
+      "name": "辣椒资源"
+    },
+     "xiaoji": {
+      "api": "https://shayuapi.com/api.php/provide/vod",
+      "name": "小鸡资源"
+    },
+     "xxibao": {
+      "api": "https://www.xxibaozyw.com/api.php/provide/vod",
+      "name": "X细胞"
+    },
+   "souavzy": {
+      "api": "https://api.souavzy.vip/api.php/provide/vod",
+      "name": "搜AV资源"
+    },
+   "danaizi": {
+      "api": "https://apidanaizi.com/api.php/provide/vod",
+      "name": "大奶子资源"
+    },
+   "yutu": {
+      "api": "https://apiyutu.com/api.php/provide/vod",
+      "name": "玉兔资源"
     }
+
   }
 }
